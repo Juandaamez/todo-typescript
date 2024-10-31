@@ -38,7 +38,7 @@ npm install next@15.0.2
 
 Procedemos a abrir el proyecto backend, y en terminal de proyecto:
 
-npm install
+npm install --legacy-peer-deps                                    !important
 
 Luego:
 
